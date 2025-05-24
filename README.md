@@ -16,7 +16,6 @@ CDISC（Clinical Data Interchange Standards Consortium）は、国際的な臨�
 ## 提供物とその目的・目標
 - **日本向けeCRF見本案**<br />
 CDISCのeCRF Portal[^1]で公開されているテンプレートをベースに、日本の臨床研究で利用しやすいCRF（症例報告書）見本案を作成ます。これにより、CDASHやSDTMに沿ったデータ収集項目の設計が容易になります。
-[^1]:[CDISC:eCRF Portal](https://www.cdisc.org/kb/ecrf)
 
 - **CDISC標準（CDASH、SDTM）に沿った変数名決定例**<br />
 CDASHおよびSDTMの実装ガイドに基づき、各データ項目に対する標準変数名の決定例を提示します。CDASH変数名とSDTM変数名の関係や、マッピング例も含みます。
@@ -29,3 +28,6 @@ CDASHおよびSDTMの実装ガイドに基づき、各データ項目に対す�
 
 >[!NOTE]
 >本ページは医薬品等規制調和・評価研究事業　研究開発課題名：アカデミアにおけるCDISC標準利用促進に関する研究開発（研究開発代表者名 齋藤俊樹、課題管理番号 24mk0101242）の支援を受けて作成されています。
+
+[^1]:[CDISC:eCRF Portal](https://www.cdisc.org/kb/ecrf)
+
